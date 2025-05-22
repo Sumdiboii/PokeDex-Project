@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/5b5a2439-c171-4c5a-a98e-457dc3d082be
 - 120+ custom 3D Pokémon models built in Blender 🎨
 - Real-time data fetching from <a href="https://pokeapi.co/">PokéAPI</a>
 - Interactive Gym Hub with leaders, badges, and trivia
-- Fully responsive design — works on phones, tablets, and even your PokéWatch! ⌚
+- Fully responsive design — works on phones, tablets, and even your laptops!!
 
 <br>
 <br>
