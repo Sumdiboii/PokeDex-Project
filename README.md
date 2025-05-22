@@ -61,7 +61,10 @@ https://github.com/user-attachments/assets/5b5a2439-c171-4c5a-a98e-457dc3d082be
 <br>
 
 <h2>🚀 The Legendary Tech Stack</h2>
-<table aria-label="Technology stack table">
+
+<br>
+
+<table aria-label="Technology stack table" align="center">
   <thead>
     <tr>
       <th>🔧 Technology</th>
