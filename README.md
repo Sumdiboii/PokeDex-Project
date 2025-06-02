@@ -2,6 +2,12 @@
 
 <!-- TITLE with Animated Typing Effect --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F61C1C&center=true&vCenter=true&width=435&lines=Gotta+Code+'Em+All!;Introducing+the+AI+Pok%C3%A9dex+%F0%9F%90%8C;React+%2B+TensorFlow+%3D+MAGIC" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.icons8.com/color/96/000000/pokemon.png" width="100" /> </p> <h1 align="center" style="color:#F61C1C;">🔥 PokéDex:  React + TensorFlow CNN + Blender🔥</h1>
 
+<br>
+
+  ![Copy of Your paragraph text (1)](https://github.com/user-attachments/assets/dd2b035f-1896-430d-b0f8-4cc50a05b754)
+  
+  <br>
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/charmander.png" alt="Charmander" width="110" style="margin: 0 20px;" />
   <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bulbasaur.png" alt="Bulbasaur" width="110" style="margin: 0 20px;" />
