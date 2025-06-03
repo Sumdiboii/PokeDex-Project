@@ -1,13 +1,12 @@
 
 
 <!-- TITLE with Animated Typing Effect --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F61C1C&center=true&vCenter=true&width=435&lines=Gotta+Code+'Em+All!;Introducing+the+AI+Pok%C3%A9dex+%F0%9F%90%8C;React+%2B+TensorFlow+%3D+MAGIC" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.icons8.com/color/96/000000/pokemon.png" width="100" /> </p> <h1 align="center" style="color:#F61C1C;">🔥 PokéDex:  React + TensorFlow CNN + Blender🔥</h1>
-
 <br>
 
   ![Copy of Your paragraph text (1)](https://github.com/user-attachments/assets/dd2b035f-1896-430d-b0f8-4cc50a05b754)
   
-  <br>
-  
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/charmander.png" alt="Charmander" width="110" style="margin: 0 20px;" />
   <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bulbasaur.png" alt="Bulbasaur" width="110" style="margin: 0 20px;" />
@@ -19,22 +18,28 @@
 <br>
 <br>
 
-https://github.com/user-attachments/assets/5b5a2439-c171-4c5a-a98e-457dc3d082be
+<p align="center">
+  <img src="read-me-images/pokedex-loader-ezgif.com-optimize.gif" alt="Pokedex Loader GIF" />
+</p>
 
 
 
+<p align="center">
+  
+  <img src="read-me-images/pokedex-home-page.png" alt="Pokedex Home Page Screenshot" />
 
-![PokeDex Home Page](https://github.com/user-attachments/assets/bb2c3952-c3fe-4578-af28-b89337834c46)
+   <img src="read-me-images/Pokemon-detect-CNN.png" alt="Pokemon Detection CNN Screenshot" />
 
-![Pokemon-detect-CNN](https://github.com/user-attachments/assets/039c2951-81b4-48ee-bfc1-389e1274eb04)
+  <img src="read-me-images/pokedex-library-page.png" alt="Pokedex Library Page Screenshot" />
 
-![PokeDex Library Page](https://github.com/user-attachments/assets/be8ac9fc-c57b-4ed6-8ccf-474e01184fa2)
+  <img src="read-me-images/pokedex-pokemon-card.png" alt="Pokedex Pokemon Card Screenshot" />
 
-![PokeDex Pokemon Card](https://github.com/user-attachments/assets/b9916cdc-d77a-4363-bb01-777777197df0)
+  <img src="read-me-images/pokedex-gyms-page.png" alt="Pokedex Gyms Page Screenshot" />
 
-![PokeDex Gyms Page](https://github.com/user-attachments/assets/aa17e24d-db44-4311-a573-e03d1a7dadf0)
+   <img src="read-me-images/pokedex-credits-page.png" alt="Pokedex Credits Page Screenshot" />
+   
+</p>
 
-![PokeDex Credits Page](https://github.com/user-attachments/assets/2d415dab-9753-4409-89b9-dabfdcd5d8f3)
 
 <p align="center">
   <a href="https://pokedex-gamma-two.vercel.app" target="_blank" rel="noopener noreferrer" 
@@ -67,9 +72,7 @@ https://github.com/user-attachments/assets/5b5a2439-c171-4c5a-a98e-457dc3d082be
 <br>
 
 <h2>🚀 The Legendary Tech Stack</h2>
-
 <br>
-
 <table aria-label="Technology stack table" align="center">
   <thead>
     <tr>
