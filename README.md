@@ -206,6 +206,14 @@ python app.py
   Ready to catch ’em all? ⚡ Dive in, explore, and experience Pokémon like never before! 💥
 </footer>
 
+<br>
+<br>
+
+
+  > ⚠️ This project is for educational and non-commercial purposes only.  
+All Pokémon characters and assets are the property of Nintendo, Game Freak, and The Pokémon Company.  
+No ownership or affiliation is implied.
+
 </body>
 </html>
 
